@@ -1,0 +1,18 @@
+{
+  "projectPath": ":neoforge",
+  "classpaths": {
+    "test": [
+      "/Volumes/Development/minecraft/hexonautics/neoforge/build/classes/java/test",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/build/resources/test",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/out/test/classes",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/out/test/resources"
+    ],
+    "main": [
+      "/Volumes/Development/minecraft/hexonautics/neoforge/build/classes/java/main",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/build/resources/main",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/build/devlibs/hexonautics-neoforge-1.0.0-dev.jar",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/out/production/classes",
+      "/Volumes/Development/minecraft/hexonautics/neoforge/out/production/resources"
+    ]
+  }
+}

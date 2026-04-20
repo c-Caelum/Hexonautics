@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-fabric/0.5.0/91a83dfb7abd320f6236bd1fcf5c0ff143d59a13/mixinextras-fabric-0.5.0.jar" />
+        </processorPath>
+        <module name="hexonautics.fabric.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="21" />
+  </component>
+</project>
